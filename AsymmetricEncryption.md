@@ -8,3 +8,4 @@ In order to understand Blockchain better, you have to at least have a brief unde
 
 Thus, in the world of Blockchain, a public key would be a public address of the wallet, whilst a private key would be a secret key used to sign a message sent by the sender so that everyone knows it is sent by that paerticular person.
 
+## Basic concept of 
